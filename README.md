@@ -1,1 +1,1 @@
-AI-powered code review assistant offering contextual suggestions, architectural insights, and security flags. Fine-tuned on review data, it provides dashboards for teams to track code quality metrics, integrating seamlessly into workflows to solve real engineering challenges.
+AI-powered code review assistance offering contextual suggestions, architectural insights, and security flags. Fine-tuned on review data, it provides dashboards for teams to track code quality metrics, integrating seamlessly into workflows to solve real engineering challenges.
